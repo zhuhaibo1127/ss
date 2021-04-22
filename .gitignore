@@ -1,0 +1,6 @@
+# Project exclude paths
+/jdbc_commons/target/
+/jdbc_domian/target/
+/jdbc_mapper/target/
+/jdbc_service/target/
+/jdbc_wev/target/
