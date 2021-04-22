@@ -1,1 +1,1 @@
-# myjdbc 吴荣涛大傻逼
+# myjdbc 吴荣涛
