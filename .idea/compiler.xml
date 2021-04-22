@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jdbc_mapper" />
-        <module name="jdbc_domian" />
-        <module name="jdbc_service" />
         <module name="jdbc_commons" />
+        <module name="jdbc_service" />
+        <module name="jdbc_wev" />
+        <module name="jdbc_mapper" />
         <module name="jdbc_web" />
+        <module name="jdbc_domian" />
       </profile>
     </annotationProcessing>
   </component>
