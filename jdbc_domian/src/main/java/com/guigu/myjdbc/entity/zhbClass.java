@@ -1,4 +1,4 @@
 package com.guigu.myjdbc.entity;
 
-public class as {
+public class zhbClass {
 }
